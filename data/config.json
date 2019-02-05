@@ -1,0 +1,100 @@
+{
+  "project": {
+    "name": "Nationalmuseum",
+    "quality": 1
+ },
+  "loader": {
+    "info": "data/info.md",
+    "timeline": "data/timeline.csv",
+    "items": "data/data.csv",
+    "textures": {
+      "medium": {
+        "size":256,
+        "url": "data/data/sprites/web_web_full.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "data/data/1024/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "data/data/4096/"
+      }
+    }
+  },
+"style": {
+    "fontColor": "#d8203e",
+    "fontColorActive": "#000000",
+    "textShadow": "none",
+    "canvasBackground": "#f9f9f9",
+    "timelineBackground": "#d8203e",
+    "timelineFontColor": "#ffffff",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#dc8283",
+    "detailBackground": "#EEE",
+    "infoBackground": "#1A465A",
+    "infoFontColor": "#fff",
+    "searchbarBackground": "#d8203e"
+  },
+  "projection": {
+    "columns": 8
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "År",
+        "source": "_realyear",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Titel",
+        "source": "_title",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Beskrivning",
+        "source": "_description",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Konstnär",
+        "source": "_artists",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Material",
+        "source": "_material",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Dimensioner",
+        "source": "_dimensions",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Nyckelord",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      },
+      {
+        "name": "Inventarienummer",
+        "source": "_inventory_number",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "ID",
+        "source": "_id",
+        "display": "column",
+        "type": "text"
+      }
+    ]
+  }
+}
