@@ -1,4 +1,4 @@
-This is a prototype using [VIKUS Viewer](https://github.com/cpietsch/vikus-viewer) to present some of Swedens National Museums art.
+This is a prototype using [VIKUS Viewer](https://github.com/cpietsch/vikus-viewer) to present a selection of Nationalmuseum's paintings. The prototype, along with three other prototoypes, was developed in the context of a wider evaluation of generous interfaces. This evaluation work has been carried out in cooperation between the the Swedish National Heritage Board, the Nordic museum, Nationalmuseum, Malmö museums, and the Swedish Museums of World Culture.
 
 ## Installation
 
@@ -12,4 +12,4 @@ Set your web servers document root to the root folder of this repository or put 
 
 * [VIKUS Viewer website](https://vikusviewer.fh-potsdam.de/)
 * [VIKUS Viewer Github](https://github.com/cpietsch/vikus-viewer)
-* [Swedens National Museum](https://www.nationalmuseum.se)
+* [Nationalmuseum](https://www.nationalmuseum.se/en/)
