@@ -1,5 +1,7 @@
 This is a prototype using [VIKUS Viewer](https://github.com/cpietsch/vikus-viewer) to present a selection of Nationalmuseum's paintings. The prototype, along with three other prototoypes, was developed in the context of a wider evaluation of generous interfaces. This evaluation work has been carried out in cooperation between the the Swedish National Heritage Board, the Nordic museum, Nationalmuseum, Malmö museums, and the Swedish Museums of World Culture.
 
+Note that the VIKUS Viewer is not optimised for use on mobile devices, so try it out on you desktop och laptop!
+
 ## Installation
 
 Download/clone this repository
