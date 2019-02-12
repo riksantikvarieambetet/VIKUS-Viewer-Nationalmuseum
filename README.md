@@ -5,7 +5,7 @@ Note that the VIKUS Viewer is not optimised for use on mobile devices, so try it
 ## User testing report and heuristic review
 The prototype was tested with a users and also went through a heuristic report. The tests were conducted by Delorean. Please note that the report is in Swedish only.
 
-Report  
+[Report](https://github.com/riksantikvarieambetet/VIKUS-Viewer-Nationalmuseum/blob/master/Vikus_rapport_anva%CC%88ndartest.pdf)  
 
 ## Installation
 
