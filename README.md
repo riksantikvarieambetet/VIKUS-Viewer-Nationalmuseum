@@ -7,6 +7,8 @@ The prototype was tested with a users and also went through a heuristic report. 
 
 [Report](https://github.com/riksantikvarieambetet/VIKUS-Viewer-Nationalmuseum/blob/master/Vikus_rapport_anva%CC%88ndartest.pdf)  
 
+After the finalisation of the development of the prototype we have been made aware of an earlier evalutation based on testing by users. The report is available online in the [Digital Humanities Quarterly 2017 Volume 11 Number 2](http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html).
+
 ## Installation
 
 Download/clone this repository
