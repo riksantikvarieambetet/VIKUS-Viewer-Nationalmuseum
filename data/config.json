@@ -15,10 +15,6 @@
       "detail": {
         "size": 1024,
         "url": "data/data/1024/"
-      },
-      "big": {
-        "size": 4096,
-        "url": "data/data/4096/"
       }
     }
   },
